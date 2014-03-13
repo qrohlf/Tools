@@ -18,6 +18,8 @@
 - [Unsplash](http://unsplash.com) - free high quality stock photos, no attribution required
 - [SquareSend](https://squaresend.com) - feedback forms to email with no server side code
 - [HTML5 UP](http://html5up.net) - static site templates that are free and good
+- [AngularJS](http://angularjs.org) - frontend data-binding framework (basically witchcraft)
+- [Moment.js](http://momentjs.com) - comprehensive date formatting/manipulation/query library
 
 ## Back-End Web Development Tools
 - [Heroku](https://www.heroku.com) - awesome PaaS.
@@ -30,6 +32,7 @@
 - [ngrok](https://ngrok.com) - tunnel local development servers to a public url <sup>2</sup>
 
 ## Command Line
+- [@qrohlf does dotfiles](https://github.com/qrohlf/dotfiles) - my personal collection of useful bash functions and aliases
 - [AutoJump](https://github.com/joelthelion/autojump) - get to the directory you want to work in insanely fast
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - colorful git-enabled custom bash prompt
 - [hub](https://github.com/github/hub) - extends git with GitHub powers
