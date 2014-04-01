@@ -8,6 +8,8 @@
 - [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) - because every commit message should include a :panda_face:
 
 ##  Front-End Web Development Tools
+- [Adobe Edge Fonts](https://edgewebfonts.adobe.com/index) - large free font library with Typekit as the backend
+- [Google Web Fonts](https://www.google.com/fonts) - similar to the above, but doesn't require JS and is a Google thing instead of Adobe
 - [IcoMoon](http://icomoon.io) - customizable icon fonts
 - [CodeKit](https://incident57.com/codekit/) - asset compilation for less/sass/coffescript/etc.
 - [SpinKit](http://tobiasahlin.com/spinkit/) - nice CSS3 loading spinners
@@ -20,6 +22,7 @@
 - [HTML5 UP](http://html5up.net) - static site templates that are free and good
 - [AngularJS](http://angularjs.org) - frontend data-binding framework (basically witchcraft)
 - [Moment.js](http://momentjs.com) - comprehensive date formatting/manipulation/query library
+- [Adobe Kuler](https://kuler.adobe.com) - nice color palatte library
 
 ## Back-End Web Development Tools
 - [Heroku](https://www.heroku.com) - awesome PaaS.
@@ -36,8 +39,8 @@
 - [AutoJump](https://github.com/joelthelion/autojump) - get to the directory you want to work in insanely fast
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - colorful git-enabled custom bash prompt
 - [hub](https://github.com/github/hub) - extends git with GitHub powers
-- [booyah](https://gist.github.com/qrohlf/9468580) - push to GitHub and Heroku in style
-- [gimmepassword](https://gist.github.com/qrohlf/9468792) - generate random passwords from your terminal
+- [homebrew bash-completion2](https://github.com/Homebrew/homebrew-versions/blob/master/bash-completion2.rb) - nice bash completion, integrated with Homebrew (note: requires bash 4)
+- [git-extras](https://github.com/visionmedia/git-extras) - fancy git bash completion
 
 ## Documentation
 - [OmniRef](http://www.omniref.com) - awesome online Ruby documentation browser. Includes EVERYTHING.
