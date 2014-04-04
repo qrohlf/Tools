@@ -7,7 +7,7 @@
 - [f.lux](http://justgetflux.com) - prevents eyestrain
 - [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) - because every commit message should include a :panda_face:
 
-##  Front-End Web Development Tools
+##  Front-End Web Development
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/index) - large free font library with Typekit as the backend
 - [Adobe Kuler](https://kuler.adobe.com) - nice color palatte library
 - [AngularJS](http://angularjs.org) - frontend data-binding framework (basically witchcraft)
@@ -24,15 +24,18 @@
 - [Subtle Patterns](http://subtlepatterns.com) - tiled retina-ready patterns for design project backgrounds. Related: [subtlepatterns bookmarklet](http://bradjasper.com/subtle-patterns-bookmarklet/#.UxvLKNwwfXk).
 - [Unsplash](http://unsplash.com) - free high quality stock photos, no attribution required
 
-## Back-End Web Development Tools
-- [Dokku](https://github.com/progrium/dokku) - awesome do-it-yourself hosted PaaS using Heroku buildpacks
-- [Heroku](https://www.heroku.com) - awesome PaaS.
+## Back-End Web Development
 - [ngrok](https://ngrok.com) - tunnel local development servers to a public url <sup>1</sup>
-- [PagodaBox](https://pagodabox.com) - because trying to do Wordpress on buildpack PaaS providers is annoying <sup>2</sup>
 - [rbenv](https://github.com/sstephenson/rbenv), [ruby-build](https://github.com/sstephenson/ruby-build), & [rbenv-gem-rehash](https://github.com/sstephenson/rbenv-gem-rehash) - minimal alternative to RVM for ruby version management
 - [shotgun](https://github.com/rtomayko/shotgun) - auto-reloading server for Ruby development
 - [squeel](https://github.com/activerecord-hackery/squeel) - nice query DSL so that you don't ever have to deal with SQL when using ActiveRecord
 - [VagrantPress](http://vagrantpress.org) - Wordpress development in a Vagrant instance, so you don't have to muck around with MAMP
+
+## System Administration
+- [Dokku](https://github.com/progrium/dokku) - awesome do-it-yourself hosted PaaS using Heroku buildpacks
+- [Heroku](https://www.heroku.com) - awesome PaaS.
+- [PagodaBox](https://pagodabox.com) - because trying to do Wordpress on buildpack PaaS providers is annoying <sup>2</sup>
+- [Scout Realtime](http://scoutapp.github.io/scout_realtime/) - beautifully executed open-source server monitoring in the browser.
 
 ## Command Line
 - [@qrohlf does dotfiles](https://github.com/qrohlf/dotfiles) - my personal collection of useful bash functions and aliases
@@ -47,5 +50,5 @@
 - [OmniRef](http://www.omniref.com) - awesome online Ruby documentation browser. Includes EVERYTHING.
 
 -----
-<sup>1</sup> The original tool I used for this is [localtunnel](https://github.com/progrium/localtunnel), which is simpler and unfortunately now defunct.
+<sup>1</sup> The original tool I used for this is [localtunnel](https://github.com/progrium/localtunnel), which is simpler and unfortunately now defunct. The ngrok request introspection is a nice touch, though.  
 <sup>2</sup> This is likely due to the fact that Wordpress itself is annoying.  
