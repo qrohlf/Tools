@@ -8,6 +8,8 @@
 - [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) - because every commit message should include a :panda_face:
 
 ##  Front-End Web Development
+- [Color Relationship Function Generator Thing](http://ethanmuller.github.io/sass-color-function-generator-thing/) - give it two colors, it give you a SASS function to generate one from the other.
+- [SASS Color Function Visualizer](http://sassme.arc90.com) - play with SASS color functions in realtime
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/index) - large free font library with Typekit as the backend
 - [Adobe Kuler](https://kuler.adobe.com) - nice color palatte library
 - [AngularJS](http://angularjs.org) - frontend data-binding framework (basically witchcraft)
