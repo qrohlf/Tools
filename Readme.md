@@ -2,25 +2,27 @@
 *A curated list of all of the development tools that I like. Pull requests accepted if I like them.*
 
 ## General
-- [Sublime Text 3](http://www.sublimetext.com/3) - my weapon of choice when it comes to editing text files. Modified to use an [icon that isn't ugly](http://dribbble.com/shots/311515-A-Sublime-Text-2-Icon-that-is-less-horrible).
-- [Homebrew](http://brew.sh) - OSX package management
-- [f.lux](http://justgetflux.com) - prevents eyestrain
+- [Choose A License](http://choosealicense.com) - handy resource on OSS licenses by GitHub.
 - [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) - because every commit message should include a :panda_face:
+- [f.lux](http://justgetflux.com) - prevents eyestrain
+- [Focus](http://heyfocus.com) - an app to block distracting websites. Nice design.
+- [Homebrew](http://brew.sh) - OSX package management
+- [Sublime Text 3](http://www.sublimetext.com/3) - my weapon of choice when it comes to editing text files. Modified to use an [icon that isn't ugly](http://dribbble.com/shots/311515-A-Sublime-Text-2-Icon-that-is-less-horrible).
 
 ##  Front-End Web Development
-- [Color Relationship Function Generator Thing](http://ethanmuller.github.io/sass-color-function-generator-thing/) - give it two colors, it give you a SASS function to generate one from the other.
-- [SASS Color Function Visualizer](http://sassme.arc90.com) - play with SASS color functions in realtime
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/index) - large free font library with Typekit as the backend
 - [Adobe Kuler](https://kuler.adobe.com) - nice color palatte library
 - [AngularJS](http://angularjs.org) - frontend data-binding framework (basically witchcraft)
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - the best Google web fonts, plus ideas for heading/body combos
 - [CodeKit](https://incident57.com/codekit/) - asset compilation for less/sass/coffescript/etc.
+- [Color Relationship Function Generator Thing](http://ethanmuller.github.io/sass-color-function-generator-thing/) - give it two colors, it give you a SASS function to generate one from the other.
 - [Dictionary Domains](http://www.dictionarydomains.co) - find dictionary word domains on less-common TLDs
 - [Google Web Fonts](https://www.google.com/fonts) - similar to the above, but doesn't require JS and is a Google thing instead of Adobe
 - [Holder.js](http://imsky.github.io/holder/) - placeholder images with no remote dependencies
 - [HTML5 UP](http://html5up.net) - static site templates that are free and good
 - [IcoMoon](http://icomoon.io) - customizable icon fonts
 - [Moment.js](http://momentjs.com) - comprehensive date formatting/manipulation/query library
+- [SASS Color Function Visualizer](http://sassme.arc90.com) - play with SASS color functions in realtime
 - [SpinKit](http://tobiasahlin.com/spinkit/) - nice CSS3 loading spinners
 - [SquareSend](https://squaresend.com) - feedback forms to email with no server side code
 - [Subtle Patterns](http://subtlepatterns.com) - tiled retina-ready patterns for design project backgrounds. Related: [subtlepatterns bookmarklet](http://bradjasper.com/subtle-patterns-bookmarklet/#.UxvLKNwwfXk).

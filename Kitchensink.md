@@ -8,6 +8,7 @@ Everything that *might* be useful.
 - [AutoJump](https://github.com/joelthelion/autojump) - get to the directory you want to work in insanely fast
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - the best Google web fonts, plus ideas for heading/body combos
 - [Boxen](https://boxen.github.com) - Puppet powered dev machine auto-configuration by GitHub
+- [Choose A License](http://choosealicense.com) - handy resource on OSS licenses by GitHub.
 - [CodeKit](https://incident57.com/codekit/) - asset compilation for less/sass/coffescript/etc.
 - [Color Relationship Function Generator Thing](http://ethanmuller.github.io/sass-color-function-generator-thing/) - give it two colors, it give you a SASS function to generate one from the other.
 - [DevDocs](http://devdocs.io) - online documentation browser for web development languages and frameworks.
@@ -15,7 +16,10 @@ Everything that *might* be useful.
 - [Dokku](https://github.com/progrium/dokku) - awesome do-it-yourself hosted PaaS using Heroku buildpacks
 - [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) - because every commit message should include a :panda_face:
 - [Flynn](https://flynn.io) - some kind of prerelease more-professional Dokku?
+- [Focus](http://heyfocus.com) - an app to block distracting websites. Nice design.
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Protips for using Github
 - [Google Web Fonts](https://www.google.com/fonts) - similar to the above, but doesn't require JS and is a Google thing instead of Adobe
+- [Google Web Fundamentals](https://developers.google.com/web/fundamentals/) - Guide from The Google on how to do web development right
 - [HTML5 UP](http://html5up.net) - static site templates that are free and good
 - [Heroku](https://www.heroku.com) - awesome PaaS.
 - [Holder.js](http://imsky.github.io/holder/) - placeholder images with no remote dependencies
