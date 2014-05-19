@@ -45,6 +45,7 @@ Everything that *might* be useful.
 - [Unofficial GitHub Buttons](http://ghbtns.com) - Star/Fork/Follow buttons for GitHub projects
 - [Unsplash](http://unsplash.com) - free high quality stock photos, no attribution required
 - [VagrantPress](http://vagrantpress.org) - Wordpress development in a Vagrant instance, so you don't have to muck around with MAMP
+- [WTF, Forms](http://wtfforms.com/) - form control standardization CSS library
 - [f.lux](http://justgetflux.com) - prevents eyestrain
 - [git-extras](https://github.com/visionmedia/git-extras) - fancy git bash completion
 - [homebrew bash-completion2](https://github.com/Homebrew/homebrew-versions/blob/master/bash-completion2.rb) - nice bash completion, integrated with Homebrew (note: requires bash 4)
