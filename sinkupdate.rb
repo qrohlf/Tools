@@ -16,11 +16,11 @@ def header(a)
 end
 
 readme = File.readlines('Readme.md')
-sink = File.readlines('Kitchensink.md')
+sink = File.readlines('kitchensink.md')
 
 all = items(readme) + items(sink)
 all.uniq!
 all.sort!
 all.join('')
 
-File.write('Kitchensink.md', (header(sink)+all+footer(sink)).join(''))
+File.write('kitchensink.md', (header(sink)+all+footer(sink)).join(''))
