@@ -5,6 +5,7 @@ Everything that *might* be useful.
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/index) - large free font library with Typekit as the backend
 - [Adobe Kuler](https://kuler.adobe.com) - nice color palatte library
 - [AngularJS](http://angularjs.org) - frontend data-binding framework (basically witchcraft)
+- [Atom](https://atom.io) - my weapon of choice when it comes to editing text files.
 - [AutoJump](https://github.com/joelthelion/autojump) - get to the directory you want to work in insanely fast
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - the best Google web fonts, plus ideas for heading/body combos
 - [Boxen](https://boxen.github.com) - Puppet powered dev machine auto-configuration by GitHub

@@ -7,7 +7,7 @@
 - [f.lux](http://justgetflux.com) - prevents eyestrain
 - [Focus](http://heyfocus.com) - an app to block distracting websites. Nice design.
 - [Homebrew](http://brew.sh) - OSX package management
-- [Sublime Text 3](http://www.sublimetext.com/3) - my weapon of choice when it comes to editing text files. Modified to use an [icon that isn't ugly](http://dribbble.com/shots/311515-A-Sublime-Text-2-Icon-that-is-less-horrible).
+- [Atom](https://atom.io) - my weapon of choice when it comes to editing text files.
 
 ##  Front-End Web Development
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/index) - large free font library with Typekit as the backend
