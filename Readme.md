@@ -14,15 +14,18 @@
 - [Adobe Kuler](https://kuler.adobe.com) - nice color palatte library
 - [AngularJS](http://angularjs.org) - frontend data-binding framework (basically witchcraft)
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - the best Google web fonts, plus ideas for heading/body combos
+- [Brace Forms](http://forms.brace.io/) - HTML forms -> email with no server-side code (see also: squaresend)
 - [CodeKit](https://incident57.com/codekit/) - asset compilation for less/sass/coffescript/etc.
 - [Color Relationship Function Generator Thing](http://ethanmuller.github.io/sass-color-function-generator-thing/) - give it two colors, it give you a SASS function to generate one from the other.
 - [Dictionary Domains](http://www.dictionarydomains.co) - find dictionary word domains on less-common TLDs
+- [Eloquent Javascript](http://eloquentjavascript.net/) - one of the best and most comprehensive introductions to Javascript out there
 - [Google Web Fonts](https://www.google.com/fonts) - similar to the above, but doesn't require JS and is a Google thing instead of Adobe
 - [Holder.js](http://imsky.github.io/holder/) - placeholder images with no remote dependencies
 - [HTML5 UP](http://html5up.net) - static site templates that are free and good
 - [IcoMoon](http://icomoon.io) - customizable icon fonts
 - [Moment.js](http://momentjs.com) - comprehensive date formatting/manipulation/query library
 - [SASS Color Function Visualizer](http://sassme.arc90.com) - play with SASS color functions in realtime
+- [Simpsum](https://toolbelt.pixelapse.com/ipsum) - really nice Lorem Ipsum interface
 - [SpinKit](http://tobiasahlin.com/spinkit/) - nice CSS3 loading spinners
 - [SquareSend](https://squaresend.com) - feedback forms to email with no server side code
 - [Subtle Patterns](http://subtlepatterns.com) - tiled retina-ready patterns for design project backgrounds. Related: [subtlepatterns bookmarklet](http://bradjasper.com/subtle-patterns-bookmarklet/#.UxvLKNwwfXk).
