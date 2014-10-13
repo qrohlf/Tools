@@ -2,12 +2,12 @@
 *A curated list of all of the development tools that I like. Pull requests accepted if I like them.*
 
 ## General
+- [Atom](https://atom.io) - my weapon of choice when it comes to editing text files.
 - [Choose A License](http://choosealicense.com) - handy resource on OSS licenses by GitHub.
 - [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) - because every commit message should include a :panda_face:
 - [f.lux](http://justgetflux.com) - prevents eyestrain
 - [Focus](http://heyfocus.com) - an app to block distracting websites. Nice design.
 - [Homebrew](http://brew.sh) - OSX package management
-- [Atom](https://atom.io) - my weapon of choice when it comes to editing text files.
 
 ##  Front-End Web Development
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/index) - large free font library with Typekit as the backend
@@ -29,6 +29,7 @@
 - [SpinKit](http://tobiasahlin.com/spinkit/) - nice CSS3 loading spinners
 - [SquareSend](https://squaresend.com) - feedback forms to email with no server side code
 - [Subtle Patterns](http://subtlepatterns.com) - tiled retina-ready patterns for design project backgrounds. Related: [subtlepatterns bookmarklet](http://bradjasper.com/subtle-patterns-bookmarklet/#.UxvLKNwwfXk).
+- [SweetAlert](https://github.com/t4t5/sweetalert) - super nice looking responsive replacement for native JS `alert`
 - [Unsplash](http://unsplash.com) - free high quality stock photos, no attribution required
 
 ## Back-End Web Development
@@ -57,5 +58,5 @@
 - [OmniRef](http://www.omniref.com) - awesome online Ruby documentation browser. Includes EVERYTHING.
 
 -----
-<sup>1</sup> The original tool I used for this is [localtunnel](https://github.com/progrium/localtunnel), which is simpler and unfortunately now defunct. The ngrok request introspection is a nice touch, though.  
+<sup>1</sup> The original tool I used for this is [localtunnel](https://github.com/progrium/localtunnel), which is simpler and unfortunately now defunct. The ngrok request introspection is a nice touch, though.
 <sup>2</sup> This is likely due to the fact that Wordpress itself is annoying.

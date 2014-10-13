@@ -11,9 +11,11 @@ readme_sections = readme.split("\n\n")
 readme_sections.map! do |section|
   lines = section.split("\n")
   heading = lines.shift
-  if /"^## "/ =~ heading
-    ([heading] + lines.sort).join("\n")
+  if /^## / =~ heading #only sort sections with level-two headings
+    puts "sorting #{heading}"
+    ([heading] + lines.sort_by{|line| line.downcase}).join("\n")
   else
+    puts "not sorting #{heading}"
     ([heading] + lines).join("\n")
   end
 end
@@ -25,4 +27,4 @@ sink_header = sink.take(sink.index{|l| I(l)})
 sink_footer = sink.slice(sink.rindex{|l| I(l)} + 1, sink.size)
 all = File.readlines('Readme.md') + File.readlines('kitchensink.md')
 all.select!{|l| I(l)}
-File.write('kitchensink.md', (sink_header + all.uniq.sort + sink_footer).join(''))
+File.write('kitchensink.md', (sink_header + all.uniq.sort_by{|line| line.downcase} + sink_footer).join('')+"\n")
