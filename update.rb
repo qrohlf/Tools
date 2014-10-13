@@ -27,4 +27,4 @@ sink_header = sink.take(sink.index{|l| I(l)})
 sink_footer = sink.slice(sink.rindex{|l| I(l)} + 1, sink.size)
 all = File.readlines('Readme.md') + File.readlines('kitchensink.md')
 all.select!{|l| I(l)}
-File.write('kitchensink.md', (sink_header + all.uniq.sort_by{|line| line.downcase} + sink_footer).join('')+"\n")
+File.write('kitchensink.md', (sink_header + all.uniq.sort_by{|line| line.downcase} + sink_footer).join(''))
