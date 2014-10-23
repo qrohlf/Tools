@@ -35,6 +35,7 @@
 ## Back-End Web Development
 - [ngrok](https://ngrok.com) - tunnel local development servers to a public url <sup>1</sup>
 - [rbenv](https://github.com/sstephenson/rbenv), [ruby-build](https://github.com/sstephenson/ruby-build), & [rbenv-gem-rehash](https://github.com/sstephenson/rbenv-gem-rehash) - minimal alternative to RVM for ruby version management
+- [ruby did_you_mean gem](http://www.yukinishijima.net/2014/10/21/did-you-mean-experience-in-ruby.html) - help with NoMethodErrors
 - [shotgun](https://github.com/rtomayko/shotgun) - auto-reloading server for Ruby development
 - [squeel](https://github.com/activerecord-hackery/squeel) - nice query DSL so that you don't ever have to deal with SQL when using ActiveRecord
 - [VagrantPress](http://vagrantpress.org) - Wordpress development in a Vagrant instance, so you don't have to muck around with MAMP

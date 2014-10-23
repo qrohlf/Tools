@@ -40,6 +40,7 @@ Everything that *might* be useful.
 - [Project Generator](http://projectgenerator.herokuapp.com) - Generates silly project ideas (i.e. "Dropbox for Vikings")
 - [rbenv](https://github.com/sstephenson/rbenv), [ruby-build](https://github.com/sstephenson/ruby-build), & [rbenv-gem-rehash](https://github.com/sstephenson/rbenv-gem-rehash) - minimal alternative to RVM for ruby version management
 - [RedPen](https://redpen.io) - Google Docs style comments for design files
+- [ruby did_you_mean gem](http://www.yukinishijima.net/2014/10/21/did-you-mean-experience-in-ruby.html) - help with NoMethodErrors
 - [SASS Color Function Visualizer](http://sassme.arc90.com) - play with SASS color functions in realtime
 - [Scout Realtime](http://scoutapp.github.io/scout_realtime/) - beautifully executed open-source server monitoring in the browser.
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - colorful git-enabled custom bash prompt
