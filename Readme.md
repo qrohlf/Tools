@@ -23,6 +23,7 @@
 - [Holder.js](http://imsky.github.io/holder/) - placeholder images with no remote dependencies
 - [HTML5 UP](http://html5up.net) - static site templates that are free and good
 - [IcoMoon](http://icomoon.io) - customizable icon fonts
+- [JustGage](http://justgage.com) - nice JS gage library
 - [Moment.js](http://momentjs.com) - comprehensive date formatting/manipulation/query library
 - [SASS Color Function Visualizer](http://sassme.arc90.com) - play with SASS color functions in realtime
 - [Simpsum](https://toolbelt.pixelapse.com/ipsum) - really nice Lorem Ipsum interface

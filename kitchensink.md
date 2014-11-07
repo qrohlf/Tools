@@ -32,6 +32,7 @@ Everything that *might* be useful.
 - [HTML5 UP](http://html5up.net) - static site templates that are free and good
 - [hub](https://github.com/github/hub) - extends git with GitHub powers
 - [IcoMoon](http://icomoon.io) - customizable icon fonts
+- [JustGage](http://justgage.com) - nice JS gage library
 - [Moment.js](http://momentjs.com) - comprehensive date formatting/manipulation/query library
 - [ngrok](https://ngrok.com) - tunnel local development servers to a public url <sup>1</sup>
 - [OmniRef](http://www.omniref.com) - awesome online Ruby documentation browser. Includes EVERYTHING.
